@@ -1,0 +1,6 @@
+14-07-2023 18:09:22: 
+ Name : Amith Time 
+ Exception Message : Input string was not in a correct format.
+14-07-2023 18:10:48:
+ Name : Naruto 
+ Exception Message : Attempted to divide by zero.
